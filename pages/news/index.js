@@ -1,3 +1,5 @@
+// our-domain.com/news
+
 import { Fragment } from 'react';
 
 const NewsPage = () => {
